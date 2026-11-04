@@ -66,3 +66,9 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# Local editor settings, judge caches, and macOS files
+.vscode/
+.cph/
+.DS_Store
+*.dSYM/
