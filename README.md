@@ -32,3 +32,14 @@
 ## 👤 Author
 
 GitHub: [zikkfvll](https://github.com/zikkfvll)
+
+## 🗂️ 历史代码归档
+
+2026-11-05 整理了本地 OI 与 C++ 训练代码，按知识点和比赛场次保存。
+
+- [整理说明与状态](docs/import-2026-11-05.md)
+- [全部原文件与归档位置对照表](docs/import-2026-11-05.csv)
+- [算法知识点索引](topics/README.md)
+- [比赛与训练索引](contests/README.md)
+
+历史导入代码均未确认在线评测通过；空文件、未完成代码和模板候选均已单独标注。
